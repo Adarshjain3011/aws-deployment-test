@@ -14,7 +14,7 @@ app.listen(PORT,()=>{
 
 app.get("/home",(req,res)=>{
 
-    res.send("<h1>hellow world </h1>")
+    res.send("<h1>hellow world check  </h1>")
 });
 
 
